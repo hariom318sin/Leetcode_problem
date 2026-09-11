@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariom318sin/Leetcode_problem/tree/master/0001-two-sum) |
+| [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hariom318sin/Leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hariom318sin/Leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
