@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariom318sin/Leetcode_problem/tree/master/0001-two-sum) |
+| [1470-shuffle-the-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
