@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariom318sin/Leetcode_problem/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hariom318sin/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
