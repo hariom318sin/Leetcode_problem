@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariom318sin/Leetcode_problem/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hariom318sin/Leetcode_problem/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hariom318sin/Leetcode_problem/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hariom318sin/Leetcode_problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
