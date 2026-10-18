@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hariom318sin/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/hariom318sin/Leetcode_problem/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/hariom318sin/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/hariom318sin/Leetcode_problem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
