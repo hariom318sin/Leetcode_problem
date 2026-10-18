@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariom318sin/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hariom318sin/Leetcode_problem/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hariom318sin/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/1470-shuffle-the-array) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hariom318sin/Leetcode_problem/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hariom318sin/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
