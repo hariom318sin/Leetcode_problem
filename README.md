@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/hariom318sin/Leetcode_problem/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/hariom318sin/Leetcode_problem/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
