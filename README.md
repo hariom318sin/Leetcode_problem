@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariom318sin/Leetcode_problem/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/hariom318sin/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/hariom318sin/Leetcode_problem/tree/master/0844-backspace-string-compare) |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/hariom318sin/Leetcode_problem/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hariom318sin/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hariom318sin/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hariom318sin/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
