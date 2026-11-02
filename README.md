@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/hariom318sin/Leetcode_problem/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/hariom318sin/Leetcode_problem/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/hariom318sin/Leetcode_problem/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hariom318sin/Leetcode_problem/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/hariom318sin/Leetcode_problem/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/hariom318sin/Leetcode_problem/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/hariom318sin/Leetcode_problem/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
