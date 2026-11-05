@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/hariom318sin/Leetcode_problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hariom318sin/Leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
 ## Sorting
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/hariom318sin/Leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hariom318sin/Leetcode_problem/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hariom318sin/Leetcode_problem/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
