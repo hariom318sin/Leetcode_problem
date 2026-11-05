@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hariom318sin/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/hariom318sin/Leetcode_problem/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hariom318sin/Leetcode_problem/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/hariom318sin/Leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/hariom318sin/Leetcode_problem/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hariom318sin/Leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
 ## Sorting
 |  |
