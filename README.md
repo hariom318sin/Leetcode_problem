@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariom318sin/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hariom318sin/Leetcode_problem/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariom318sin/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hariom318sin/Leetcode_problem/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hariom318sin/Leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hariom318sin/Leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariom318sin/Leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/hariom318sin/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/hariom318sin/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hariom318sin/Leetcode_problem/tree/master/0191-number-of-1-bits) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
