@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariom318sin/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariom318sin/Leetcode_problem/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/hariom318sin/Leetcode_problem/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/hariom318sin/Leetcode_problem/tree/master/0724-find-pivot-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hariom318sin/Leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/hariom318sin/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hariom318sin/Leetcode_problem/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hariom318sin/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/hariom318sin/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariom318sin/Leetcode_problem/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hariom318sin/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/hariom318sin/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
